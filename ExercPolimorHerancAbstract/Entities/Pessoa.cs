@@ -1,4 +1,4 @@
-﻿namespace ExerciPolimorfismoHeranca02.Entities
+﻿namespace ExercPolimorHerancAbstract.Entities
 {
     abstract class Pessoa
     {
