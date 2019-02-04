@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercPolimorHerancAbstract", "ExercPolimorHerancAbstract\ExercPolimorHerancAbstract.csproj", "{85303862-D32C-409C-84DD-8233D65C06EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85303862-D32C-409C-84DD-8233D65C06EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85303862-D32C-409C-84DD-8233D65C06EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85303862-D32C-409C-84DD-8233D65C06EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85303862-D32C-409C-84DD-8233D65C06EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A3ABACE-C206-43B4-B602-3C1EE9DF7E2C}
+	EndGlobalSection
+EndGlobal
